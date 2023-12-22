@@ -11,7 +11,7 @@ env_logger = "0.10.1"
 log = "0.4.20"
 regex = "1.10.2"
 serde = "1.0.192"
-serde_yaml = "0.9.27"
+serde_yaml = "0.9.29"
 serenity = { version = "0.11.7", default-features=false, features=["client", "gateway", "rustls_backend", "model"] }
 thiserror = "1.0.50"
 tia = "1.0.3"
