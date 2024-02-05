@@ -15,4 +15,4 @@ serde_yaml = "0.9.27"
 serenity = { version = "0.11.7", default-features=false, features=["client", "gateway", "rustls_backend", "model"] }
 thiserror = "1.0.50"
 tia = "1.0.3"
-tokio = { version = "1.34.0", features = ["macros", "rt-multi-thread"] }
+tokio = { version = "1.36.0", features = ["macros", "rt-multi-thread"] }
